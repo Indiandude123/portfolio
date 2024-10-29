@@ -14,9 +14,21 @@ I'm from West Bengal, India, with a B.Tech in Biotechnology from NIT Durgapur an
 
 ### Experience
 - Senior Analyst, Backend Engineering at Capgemini
-- Research Intern at IIT Patna
+
+### Internship
+- Research Intern at Indian Institute of Technology Patna
 
 ---
+
+## 📝 Publications
+
+- **Sentiment and Emotion-Aware Multi-Modal Complaint Identification**  
+  *SINGH, A., Dey, S., Singha, A., & Saha, S. (2022)*  
+  **Published in**: *Proceedings of the AAAI Conference on Artificial Intelligence, 36(11), 12163-12171*  
+  [https://doi.org/10.1609/aaai.v36i11.21476](https://doi.org/10.1609/aaai.v36i11.21476)
+
+---
+
 
 ## 🔬 Projects & Case Studies
 
@@ -65,7 +77,6 @@ I'm always open to collaborative projects in AI, ML, and data science. If you're
 
 - **Email**: saheb123.singha@gmail.com  
 - **LinkedIn**: [linkedin.com/in/anamitrasingha](https://www.linkedin.com/in/anamitrasingha/)
-- 
 ---
 
 This portfolio is a continuous work in progress—thank you for visiting!
