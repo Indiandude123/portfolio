@@ -22,11 +22,9 @@ I'm from West Bengal, India, with a B.Tech in Biotechnology from NIT Durgapur an
 
 ## 📝 Publications
 
-- **Sentiment and Emotion-Aware Multi-Modal Complaint Identification**  
-  *SINGH, A., Dey, S., Singha, A., & Saha, S. (2022)*  
-  **Published in**: *Proceedings of the AAAI Conference on Artificial Intelligence, 36(11), 12163-12171*  
-  [https://doi.org/10.1609/aaai.v36i11.21476](https://doi.org/10.1609/aaai.v36i11.21476)
-
+- **Sentiment and Emotion-Aware Multi-Modal Complaint Identification (AAAI 2022)**
+  [Publication](https://doi.org/10.1609/aaai.v36i11.21476](https://doi.org/10.1609/aaai.v36i11.21476)
+The expression of displeasure on a consumer's behalf towards an organization, product, or event is denoted via the speech act known as complaint. Customers typically post reviews on retail websites and various social media platforms about the products or services they purchase, and the reviews may include complaints about the products or services. Automatic detection of consumers' complaints about items or services they buy can be critical for organizations and online merchants since they can use this insight to meet the customers' requirements, including handling and addressing the complaints. Previous studies on Complaint Identification (CI) are limited to text. Images posted with the reviews can provide cues to identify complaints better, thus emphasizing the importance of incorporating multi-modal inputs into the process. Furthermore, the customer's emotional state significantly impacts the complaint expression since emotions generally influence any speech act. As a result, the impact of emotion and sentiment on automatic complaint identification must also be investigated. One of the major contributions of this work is the creation of a new dataset- Complaint, Emotion, and Sentiment Annotated Multi-modal Amazon Reviews Dataset (CESAMARD), a collection of opinionated texts (reviews) and images of the products posted on the website of the retail giant Amazon. We present an attention-based multi-modal, adversarial multi-task deep neural network model for complaint detection to demonstrate the utility of the multi-modal dataset. Experimental results indicate that the multi-modality and multi-tasking complaint identification outperforms uni-modal and single-task variants.
 ---
 
 
