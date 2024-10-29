@@ -77,6 +77,8 @@ I'm always open to collaborative projects in AI, ML, and data science. If you're
 
 - **Email**: saheb123.singha@gmail.com  
 - **LinkedIn**: [linkedin.com/in/anamitrasingha](https://www.linkedin.com/in/anamitrasingha/)
+
+  
 ---
 
 This portfolio is a continuous work in progress—thank you for visiting!
