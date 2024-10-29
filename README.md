@@ -1,4 +1,3 @@
-# Anamitra Singha
 
 Welcome to my portfolio! I'm Anamitra, a Master's student in Information Technology at IIT Delhi under Prof. Aaditeshwar Seth. My research centers around AI-driven solutions to tackle socio-economic challenges, and this portfolio showcases my work in machine learning, deep learning, reinforcement learning, and other areas in AI.
 
