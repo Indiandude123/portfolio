@@ -1,5 +1,5 @@
 
-Welcome to my portfolio! I'm Anamitra, a Master's student in Information Technology at IIT Delhi under Prof. Aaditeshwar Seth. My research centers around AI-driven solutions to tackle socio-economic challenges, and this portfolio showcases my work in machine learning, deep learning, reinforcement learning, and other areas in AI.
+Welcome to my portfolio! I'm Anamitra, a Master's student in Information Technology at IIT Delhi under Prof. Aaditeshwar Seth. My research centers around AI-driven solutions to tackle socio-economic challenges, and this portfolio showcases my work in deep generative modelling, machine learning, deep learning, reinforcement learning, and other areas in AI.
 
 ---
 
@@ -28,22 +28,30 @@ The expression of displeasure on a consumer's behalf towards an organization, pr
 
 
 ## 🔬 Projects & Case Studies
+### 1. [Conditional Deep Convolutional Generative Adversarial Network (cDCGAN) on Fashion-MNIST](https://github.com/Indiandude123/cDCGAN-on-fashion-mnist)
+  - **Overview**: Developed a Conditional Deep Convolutional Generative Adversarial Network (cDCGAN) in PyTorch to synthesize class-specific, realistic images resembling the Fashion-MNIST dataset.
+  - **Highlights**
+    - Implemented both the generator and discriminator as deep convolutional neural networks (DCNNs), enabling high-fidelity image synthesis and improved training stability.
+    - Incorporated class-conditioning by integrating label information into both generator and discriminator, allowing targeted generation of specific Fashion-MNIST categories.
+    - Designed a flexible command-line interface supporting configurable training regimes, including variable generator/discriminator update steps and class-conditional sampling.
+    - Automated the end-to-end ML workflow: custom data loading with label management, model checkpointing, and visualization of class-conditional generated samples throughout training.
+    - Provided comprehensive project documentation and usage instructions to facilitate collaboration and open source contribution.
 
-### 1. [Hidden Markov Model for Sailboat Trajectory Simulation](https://github.com/Indiandude123/HMM-Sailboat-Grid)
+### 2. [Hidden Markov Model for Sailboat Trajectory Simulation](https://github.com/Indiandude123/HMM-Sailboat-Grid)
    - **Overview**: Simulation of sailboat trajectories using Hidden Markov Models, simulating random wind effects and noisy sensor readings.
    - **Highlights**:
      - Developed trajectory sampling, likelihood estimation, and Viterbi decoding algorithms.
      - Used the Baum-Welch algorithm for parameter learning.
      - Visualizations include sensor probabilities and KL divergence analysis.
 
-### 2. [Automated Micro-Suturing Analysis using Computer Vision](https://github.com/Indiandude123/Automated-Micro-Suturing-Analysis)
+### 3. [Automated Micro-Suturing Analysis using Computer Vision](https://github.com/Indiandude123/Automated-Micro-Suturing-Analysis-Using-Computer-Vision)
    - **Overview**: Computer vision pipeline for analyzing micro-sutures in medical imagery, automating precision-based metrics.
    - **Key Features**:
      - Applied preprocessing techniques and edge detection for suture identification.
      - Measured inter-suture spacing and alignment metrics for quality assessment.
      - Automated CSV report generation for consistent evaluation.
 
-### 3. [Autonomous Navigation in Grid and Continuous Environments using Reinforcement Learning](https://github.com/Indiandude123/Reinforcement-Learning-Gymnasium-Environment-Implementations)
+### 4. [Autonomous Navigation in Grid and Continuous Environments using Reinforcement Learning](https://github.com/Indiandude123/Autonomous-Navigation-in-Grid-and-Continuous-Environments-using-Reinforcement-Learning)
    - **Overview**: Training agents in reinforcement learning for environments with discrete and continuous states.
    - **Approach**:
      - Implemented Policy and Value Iteration for TreasureHunt environments.
